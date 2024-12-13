@@ -1,0 +1,14 @@
+Cadastro de Imóveis
+
+Escreva um programa em javascript que funcione como um cadastro de imóveis e atenda aos seguintes requisitos:
+
+1º - Deve ter um menu interativo que sempre é exibido até que o usuário escolha sair.
+2º - O menu interativo deve mostrar no topo a quantidade de imóveis cadastrados.
+3º - O menu deve ter a opção de salvar um imóvel.
+4º - Para salvar um novo imóvel o programa deve pedir as seguintes informações:Nome do proprietário.Quantidade de quartos.Quantidade de banheiros.Se possui garagem.
+5º - Nome do proprietário.
+6º - Quantidade de quartos.
+7º - Quantidade de banheiros.
+8º - Se possui garagem.
+
+O menu também deve ter a opção de mostrar todos os imóveis salvos.
